@@ -5,4 +5,5 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
+echo '<h2>Welcome to my Telegram Bot!</h2>'
+?>
